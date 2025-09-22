@@ -1,12 +1,14 @@
 ---
 layout: default
 title: Preppio
+tagline: Plan meals, manage your pantry, reduce food waste.
 ---
 
-# Preppio
-Plan meals, track pantry items, and build smarter shopping lists — all in one place.
+<p class="lead">
+  Plan meals, track pantry items, and build smarter shopping lists — all in one place.
+</p>
 
 - [Privacy Policy](./privacy.md)
 - [Support](./support.md)
 
-© {{ site.time | date: "%Y" }} Preppio
+<p class="copyright">© {{ site.time | date: "%Y" }} Preppio</p>
