@@ -5,7 +5,7 @@ title: Support
 
 # Support
 We’re here to help.  
-Email: [support@preppio.app](mailto:support@preppio.app)
+Email: [preppio@mail.com](mailto:preppio@mail.com)
 
 _For quickest replies, include your platform (iOS/Android), app version, and steps to reproduce your issue._
 
